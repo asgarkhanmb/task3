@@ -1,0 +1,14 @@
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\bin\Debug\net6.0\Ders-Praktik.exe
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\bin\Debug\net6.0\Ders-Praktik.deps.json
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\bin\Debug\net6.0\Ders-Praktik.runtimeconfig.json
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\bin\Debug\net6.0\Ders-Praktik.dll
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\bin\Debug\net6.0\Ders-Praktik.pdb
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\obj\Debug\net6.0\Ders-Praktik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\obj\Debug\net6.0\Ders-Praktik.AssemblyInfoInputs.cache
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\obj\Debug\net6.0\Ders-Praktik.AssemblyInfo.cs
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\obj\Debug\net6.0\Ders-Praktik.csproj.CoreCompileInputs.cache
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\obj\Debug\net6.0\Ders-Praktik.dll
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\obj\Debug\net6.0\refint\Ders-Praktik.dll
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\obj\Debug\net6.0\Ders-Praktik.pdb
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\obj\Debug\net6.0\Ders-Praktik.genruntimeconfig.cache
+C:\Users\Əsgərxan\Desktop\ders praktik\Ders-Praktik\Ders-Praktik\obj\Debug\net6.0\ref\Ders-Praktik.dll
